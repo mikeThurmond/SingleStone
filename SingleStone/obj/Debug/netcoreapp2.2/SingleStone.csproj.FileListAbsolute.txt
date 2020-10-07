@@ -1,0 +1,14 @@
+/Users/michael/RiderProjects/SingleStone/SingleStone/bin/Debug/netcoreapp2.2/SingleStone.deps.json
+/Users/michael/RiderProjects/SingleStone/SingleStone/bin/Debug/netcoreapp2.2/SingleStone.runtimeconfig.json
+/Users/michael/RiderProjects/SingleStone/SingleStone/bin/Debug/netcoreapp2.2/SingleStone.runtimeconfig.dev.json
+/Users/michael/RiderProjects/SingleStone/SingleStone/bin/Debug/netcoreapp2.2/SingleStone.dll
+/Users/michael/RiderProjects/SingleStone/SingleStone/bin/Debug/netcoreapp2.2/SingleStone.pdb
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.csprojAssemblyReference.cache
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.csproj.CoreCompileInputs.cache
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.RazorAssemblyInfo.cache
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.RazorAssemblyInfo.cs
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.AssemblyInfoInputs.cache
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.AssemblyInfo.cs
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.RazorTargetAssemblyInfo.cache
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.dll
+/Users/michael/RiderProjects/SingleStone/SingleStone/obj/Debug/netcoreapp2.2/SingleStone.pdb
